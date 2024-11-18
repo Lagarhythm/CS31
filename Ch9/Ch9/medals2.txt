@@ -1,0 +1,6 @@
+USA
+9 8 6
+Netherlands
+8 6 6
+Sweden
+7 6 1
